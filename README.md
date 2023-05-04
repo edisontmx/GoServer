@@ -1,3 +1,3 @@
 # GoServer
 servidor web con Go-lang
-this is a sipmle server with go, no gorm, no fiber, just go code..!!!!
+this is a simple server with go, no gorm, no fiber, just go code..!!!!
